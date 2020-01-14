@@ -203,9 +203,9 @@ footer {
   width: 100%;
 }
 .home .space-images img {
+  border-radius: 10px;
   width: 28%;
   margin: 20px 2.5%;
-  border-radius: 20px;
   height: 100%;
 }
 .home .visit-planets {
@@ -238,9 +238,9 @@ footer {
   margin-left: 4%;
 }
 .home .walk .walk-img img {
+  border-radius: 10px;
   width: 100%;
   height: auto;
-  border-radius: 10px;
 }
 .container-home {
   width: 80%;
@@ -256,8 +256,8 @@ footer {
   flex-direction: column;
 }
 .intro .pic1 {
+  border-radius: 10px;
   width: 100%;
-  border-radius: 10px 10px 10px 10px;
 }
 h2 {
   margin: 10px;
@@ -292,15 +292,15 @@ p {
 }
 .space-images .blast {
   border-radius: 30px;
-  margin: 10px 0;
+  width: 10px 0;
 }
 .space-images .sky {
   border-radius: 30px;
-  margin: 10px 0;
+  width: 10px 0;
 }
 .space-images .launch {
   border-radius: 30px;
-  margin: 10px 0;
+  width: 10px 0;
 }
 .walk {
   display: flex;
@@ -321,9 +321,9 @@ p {
 }
 .walk .walk-text .btn {
   border-radius: 10px;
+  width: 100px;
   background-color: black;
   color: white;
-  width: 100px;
   height: 35px;
 }
 @media (max-width: 500px) {
